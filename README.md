@@ -1,5 +1,7 @@
 # macos junk remover
 
+You can read the post of this in [English](https://abanoubhanna.com/posts/free-space-mac-os/) or in [Arabic](https://abanoubhanna.com/ar/posts/free-space-mac-os/).
+
 ## commands to clean up obsolete logs
 
 ```sh
@@ -53,4 +55,3 @@ ls -AhlS
 - [GitHub](https://github.com/abanoubha/macos-junk-remover)
 - [GitLab](https://gitlab.com/abanoubha/macos-junk-remover)
 - [CodeBerg](https://codeberg.org/abanoubha/macos-junk-remover)
-
