@@ -1,6 +1,6 @@
-# macos-junk-remover
+# macos junk remover
 
-## Commands to clean up obsolete logs
+## commands to clean up obsolete logs
 
 ```sh
 # delete logs files wherever they are
@@ -48,7 +48,7 @@ du -h -d 1 2> /dev/null | sort -hr
 ls -AhlS
 ```
 
-## Available on
+## available on
 
 - [GitHub](https://github.com/abanoubha/macos-junk-remover)
 - [GitLab](https://gitlab.com/abanoubha/macos-junk-remover)
